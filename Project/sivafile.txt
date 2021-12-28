@@ -1,0 +1,5 @@
+#written by siva
+#Fri Nov 19 23:15:55 IST 2021
+petname=sakthi
+name=sakthi
+institute=Qspider
